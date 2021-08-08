@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTE | DIRECTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/DirectTV-logo.png" group-title="DEPORTE",DEPORTE | DIRECTV
+http://195.181.163.39:80/DEP_DIRECTV_PLUS/index.m3u8?token=5a63042d14a96ae8609c292c91ca0850
+#EXTINF:-1,GOL ESP
+http://195.181.163.39:80/ESP_GOL_TV_HD/index.m3u8?token=2d99dd79bb9b8bd917fbee9e40f63aef
+#EXTINF:-1,ESPN
+http://195.181.163.39:80/DEP_ESPN_ARG/index.m3u8?token=a0dde07846c2facc942ee448c17f1e19
+#EXTINF:-1,FOX SPORTS
+http://195.181.163.39:80/DEP_FOX_SPORTS_ARG/index.m3u8?token=9c60593dddfd5dcb8b2b31df7a1368ff
+#EXTINF:-1,AZTECA DEPORTES
+http://195.181.163.39:80/LAT_Azteca_Deportes_HD/index.m3u8?token=e195efcfe90b4f372fdac8584c0fa7de
+#EXTINF:-1,ESPN 2
+http://195.181.163.39:80/DEP_ESPN_2_ARG/index.m3u8?token=3fecda534aedb9e0fe4a948da7942ebf
+#EXTINF:-1,TNT SPORTS arg
+http://195.181.163.39:80/DEP_TNT_SPORTS/index.m3u8?token=4dd7e81eb129115bbdf03c963ec11171
+#EXTINF:-1,FOX SPORTS 2
+http://195.181.163.39:80/DEP_FOX_SPORTS_2_ARG/index.m3u8?token=d02719aa1866b6a13fd20268b6fb5f5b
+#EXTINF:-1,CANAL 5 mx
+http://195.181.163.39:80/LAT_Canal_5_HD/index.m3u8?token=e57ebd4ea17d692fd080403306f72d0a
+#EXTINF:-1,DIRECTV 2
+http://195.181.163.39:80/ECU-DIRECTTV_SP2/index.m3u8?token=91954d9ef7cf78528e75725aa4f7e223
+#EXTINF:-1,TNT SPORTS cl
+http://195.181.163.39:80/CHI-CDF/index.m3u8?token=37241bf72dac16fb7a8bdf0cdad6f3c7
+#EXTINF:-1,FOX SPORTS PREMIUM
+http://195.181.163.39:80/DEP_FOX_SPORTS_PREM_ARG/index.m3u8?token=ee66cd6e81c7bf28ccf407de07b91e4d
+#EXTINF:-1,WIN SPORTS
+http://195.181.163.39:80/DEP_WIN_SPORTS/index.m3u8?token=40c40d060bac73a44076782502481e7a
+#EXTINF:-1,beIN SPORTS Ñ
+http://195.181.163.39:80/DEP_BEIN_DEPORTES/index.m3u8?token=8ba82eb61126c016468798cff2918dea
+#EXTINF:-1,TyC SPORTS
+http://alienstreams.fi:7070/live/ibramohamad7@gmail.com/GjSIW1Sq4T/42961.ts
+#EXTINF:-1,WIN SPORTS+
+http://195.181.163.39:8080/DEPORTES_WINSPORTS_PLUS/index.m3u8?token=cbf7f62a04247452f0915e900a0f64be
+#EXTINF:-1,STAR ACTION
+http://alienstreams.fi:7070/live/ibramohamad7@gmail.com/GjSIW1Sq4T/21082.ts
+#EXTINF:-1,DIRECTV+
+http://alienstreams.fi:7070/live/ibramohamad7@gmail.com/GjSIW1Sq4T/53705.ts
+#EXTINF:-1,TUDN
+http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/58695.ts
+#EXTINF:-1,F1
+http://livepulse2.uk:8080/cNThhnxRUm/GA5TzFb2Gh/272438
+#EXTINF:-1,GOL PERU
+http://195.181.163.39:80/DEP_GOL_TV/index.m3u8?token=913db64b59e91be1c950aed326a45de7
