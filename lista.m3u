@@ -1,0 +1,117 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTE | DIRECTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/DirectTV-logo.png" group-title="DEPORTE",DEPORTE | DIRECTV
+http://195.181.163.39:80/DEP_DIRECTV_PLUS/index.m3u8?token=5a63042d14a96ae8609c292c91ca0850
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTE | GOL ESP" tvg-logo="" group-title="DEPORTE",DEPORTE | GOL ESP
+http://195.181.163.39:80/ESP_GOL_TV_HD/index.m3u8?token=2d99dd79bb9b8bd917fbee9e40f63aef
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTE | ESPN" tvg-logo="https://logos-marcas.com/wp-content/uploads/2020/12/ESPN-Logo.png" group-title="DEPORTE",DEPORTE | ESPN
+http://195.181.163.39:80/DEP_ESPN_ARG/index.m3u8?token=a0dde07846c2facc942ee448c17f1e19
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTE | FOX SPORTS" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo-0.png" group-title="DEPORTE",DEPORTE | FOX SPORTS
+http://195.181.163.39:80/DEP_FOX_SPORTS_ARG/index.m3u8?token=9c60593dddfd5dcb8b2b31df7a1368ff
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTE | AZTECA DEPORTES" tvg-logo="https://seeklogo.com/images/A/azteca-deportes-logo-6FC143EAD1-seeklogo.com.png" group-title="DEPORTE",DEPORTE | AZTECA DEPORTES
+http://195.181.163.39:80/LAT_Azteca_Deportes_HD/index.m3u8?token=e195efcfe90b4f372fdac8584c0fa7de
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTE | ESPN 2" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_10/large.419149045_Espn2.png.7bc309b12622e0289e3a009e551e9798.png" group-title="DEPORTE",DEPORTE | ESPN 2
+http://195.181.163.39:80/DEP_ESPN_2_ARG/index.m3u8?token=3fecda534aedb9e0fe4a948da7942ebf
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTE | TNT SPORTS arg" tvg-logo="https://n9.cl/ck74u group-title="DEPORTE",DEPORTE | TNT SPORTS arg
+http://195.181.163.39:80/DEP_TNT_SPORTS/index.m3u8?token=4dd7e81eb129115bbdf03c963ec11171
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTE | FOX SPORTS 2" tvg-logo="https://www.seekpng.com/png/detail/52-523157_fox-sports-2-logo-png-logo-fox-sports.png" group-title="DEPORTE",DEPORTE | FOX SPORTS 2
+http://195.181.163.39:80/DEP_FOX_SPORTS_2_ARG/index.m3u8?token=d02719aa1866b6a13fd20268b6fb5f5b
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTE | CANAL 5 mx" tvg-logo="https://www.pngkey.com/png/detail/37-374812_canal-5-mexico-logo-logo-canal-5.png" group-title="DEPORTE",DEPORTE | CANAL 5 mx
+http://195.181.163.39:80/LAT_Canal_5_HD/index.m3u8?token=e57ebd4ea17d692fd080403306f72d0a
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTE | DIRECTV 2" tvg-logo="https://i.pinimg.com/originals/30/94/9f/30949f70bcca0fd475a8015001065755.png" group-title="DEPORTE",DEPORTE | DIRECTV 2
+http://195.181.163.39:80/ECU-DIRECTTV_SP2/index.m3u8?token=91954d9ef7cf78528e75725aa4f7e223
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTE | TNT SPORTS cl" tvg-logo="https://1.bp.blogspot.com/-jaO9LCxzt7U/YCaUqxTT9aI/AAAAAAAA8KU/h-oEs3iE8Ss8XsD5Pnz18pThBX2qSGysgCLcBGAsYHQ/s587/TNTSPORTS-2021.png" group-title="DEPORTE",DEPORTE | TNT SPORTS cl
+http://195.181.163.39:80/CHI-CDF/index.m3u8?token=37241bf72dac16fb7a8bdf0cdad6f3c7
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTE | FOX SPORTS PREMIUM" tvg-logo="https://www.foromedios.com/uploads/monthly_2019_01/401954722_FOXSportsPremium2019.png.449925ebe62b906ea607038699429c8f.png" group-title="DEPORTE",DEPORTE | FOX SPORTS PREMIUM
+http://195.181.163.39:80/DEP_FOX_SPORTS_PREM_ARG/index.m3u8?token=ee66cd6e81c7bf28ccf407de07b91e4d
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTE | WIN SPORTS" tvg-logo="https://assets.website-files.com/5ab51e98ef3b980e8d0a4e37/60c26e09dab877b8b93d7dec_Cliente-WSO-.png" group-title="DEPORTE",DEPORTE | WIN SPORTS
+http://195.181.163.39:80/DEP_WIN_SPORTS/index.m3u8?token=40c40d060bac73a44076782502481e7a
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTE | beIN SPORTS Ñ" tvg-logo="https://thumbnail.imgbin.com/19/0/15/imgbin-bein-channels-network-bein-sports-3-sky-sports-others-fjLeqYMms1pFtytVsZSLHNCLZ_t.jpg" group-title="DEPORTE",DEPORTE | beIN SPORTS Ñ
+http://195.181.163.39:80/DEP_BEIN_DEPORTES/index.m3u8?token=8ba82eb61126c016468798cff2918dea
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTE | TyC SPORTS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tycsports.png" group-title="DEPORTE",DEPORTE | TyC SPORTS
+http://alienstreams.fi:7070/live/ibramohamad7@gmail.com/GjSIW1Sq4T/42961.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTE | WIN SPORTS+" tvg-logo="https://www.tvguia.co/wp-content/uploads/2020/01/win-sports-mas-2020.jpg" group-title="DEPORTE",DEPORTE | WIN SPORTS+
+http://195.181.163.39:8080/DEPORTES_WINSPORTS_PLUS/index.m3u8?token=cbf7f62a04247452f0915e900a0f64be
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTE | STAR ACTION" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarAction_Logo2021_FondoOscuro.png.9ce5338a20f5a3cc2725793156809319.png" group-title="DEPORTE",DEPORTE | STAR ACTION
+http://alienstreams.fi:7070/live/ibramohamad7@gmail.com/GjSIW1Sq4T/21082.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTE | DIRECTV+" tvg-logo="https://www.directv.com.pe/img/directv-logo-fb-150x150.jpg" group-title="DEPORTE",DEPORTE | DIRECTV+
+http://alienstreams.fi:7070/live/ibramohamad7@gmail.com/GjSIW1Sq4T/53705.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTE | TUDN" tvg-logo="https://www.soyfutbol.com/__export/1592318767383/sites/debate/img/2020/06/16/tudn_logo_crop1592318755812.png_554688468.png" group-title="DEPORTE",DEPORTE | TUDN
+http://a2.perfectv.club:8880/live/wh12m1916/TYEwwwyB7G/58695.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTE | F1" tvg-logo="https://image.flaticon.com/icons/png/512/2418/2418779.png" group-title="DEPORTE",DEPORTE | F1
+http://livepulse2.uk:8080/cNThhnxRUm/GA5TzFb2Gh/272438
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTE | GOL PERU" tvg-logo="https://www.soulman.es/wp-content/uploads/2016/05/Gol-Peru-Logomarca.png" group-title="DEPORTE",DEPORTE | GOL PERU
+http://195.181.163.39:80/DEP_GOL_TV/index.m3u8?token=913db64b59e91be1c950aed326a45de7
+#EXTINF:-1 tvg-id="" tvg-name="CABLE | Anime Zone TV" tvg-logo="https://www.m3u.cl/logo/488_Anime_Zone_TV.png",group-title="CABLE",CABLE | Anime Zone TV | AR
+http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="CABLE | Best Cable Sports" tvg-logo="https://www.m3u.cl/logo/692_Best_Cable_Sports.png", group-title="CABLE", CABLE |Best Cable Sports | PE
+https://live.siete.us/bestcablesports/bestcablesports/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="CABLE | Canal IPE" tvg-logo="https://www.m3u.cl/logo/496_Canal_IPE.png", group-title="CABLE",CABLE |Canal IPE | PE
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="CABLE | HispanTV" tvg-logo="https://www.m3u.cl/logo/806_HispanTV.png",group-title="CABLE",CABLE | HispanTV | IR
+https://live.presstv.ir/live/smil:live.smil/hispan.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="CABLE | UCL Televisión LATAM" tvg-logo="https://www.m3u.cl/logo/494_UCL_Television_LATAM.png",group-title="CABLE",CABLE | UCL Televisión LATAM | UY
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="CABLE | Best Cable Music" tvg-logo="https://www.m3u.cl/logo/38_Best_Cable_Music.jpg",group-title="CABLE",CABLE | Best Cable Music | PE
+https://tv.siete.us:19360/bestcablemusic/bestcablemusic/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="CABLE | Hatun TV" tvg-logo="https://www.m3u.cl/logo/41_Hatun_TV.jpg", group-title="CABLE",CABLE | Hatun TV | PE
+https://tv.siete.us:19360/bestcablehatuntv/bestcablehatuntv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="CABLE | Karibeña TV" tvg-logo="https://www.m3u.cl/logo/39_Karibena_TV.jpg",group-title="CABLE",CABLE | Karibeña TV | PE
+https://cu.onliv3.com/livevd/user1.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="CABLE | Mas Cumbia" tvg-logo="https://www.m3u.cl/logo/40_Mas_Cumbia.png",group-title="CABLE",CABLE | Mas Cumbia | PE
+https://tv.siete.us:19360/mascumbiatvonline/mascumbiatvonline/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="CABLE | TOP Latino TV" tvg-logo="https://www.m3u.cl/logo/35_TOP_Latino_TV.png",group-title="CABLE",CABLE | TOP Latino TV | PE
+https://5cefcbf58ba2e.streamlock.net:443/tltvweb/tvweb.stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="CABLE | Turbo Mix TV" tvg-logo="https://www.m3u.cl/logo/43_Turbo_Mix_TV.png",group-title="CABLE",CABLE | Turbo Mix TV | PE
+https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="CABLE | Vision Musica TV" tvg-logo="https://www.m3u.cl/logo/876_Vision_Musica_TV.png",group-title="CABLE",CABLE | Vision Musica TV | PE
+https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="CABLE | Zapping Music" tvg-logo="https://www.m3u.cl/logo/2_Zapping_Music.png",group-title="CABLE",CABLE | Zapping Music | CL
+https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="CABLE | TV Peru Noticias" tvg-logo="https://www.m3u.cl/logo/705_TV_Peru_Noticias.png",group-title="CABLE",CABLE | TV Peru Noticias | PE
+https://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="CABLE | UCI Noticias 1" tvg-logo="https://www.m3u.cl/logo/684_UCI_Noticias_1.jpg",group-title="CABLE",CABLE | UCI Noticias 1 | PE
+http://168.205.133.38:80/uci1/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="CABLE | UCI Noticias 2" tvg-logo="https://www.m3u.cl/logo/706_UCI_Noticias_2.jpg",group-title="CABLE",CABLE | UCI Noticias 2 | PE
+http://168.205.133.38:80/uci2/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="CABLE | Vision Noticias Peru" tvg-logo="https://www.m3u.cl/logo/687_Vision_Noticias_Peru.png",group-title="CABLE",CABLE | Vision Noticias Peru | PE
+https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="CABLE | Cine Club" tvg-logo="https://www.m3u.cl/logo/471_Cine_Club.png",group-title="CABLE",CABLE | Cine Club | PE
+https://mediacpstreamchile.com:1936/walter/walter/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="CABLE | Antares TV" tvg-logo="https://www.m3u.cl/logo/694_Antares_TV.png",group-title="CABLE",CABLE | Antares TV | PE
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="CABLE | Best Cable TV" tvg-logo="https://www.m3u.cl/logo/693_Best_Cable_TV.png",group-title="CABLE",CABLE | Best Cable TV | PE
+https://tv.siete.us:19360/bestcable/bestcable/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="CABLE | BHTV" tvg-logo="https://www.m3u.cl/logo/695_BHTV.png",group-title="CABLE",CABLE | BHTV | 
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="CABLE | Central TV Chosica" tvg-logo="https://www.m3u.cl/logo/704_Central_TV_Chosica.png",group-title="CABLE",CABLE | Central TV Chosica | PE
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="CABLE | Cultura 24 TV" tvg-logo="https://www.m3u.cl/logo/696_Cultura_24_TV.png",group-title="CABLE",CABLE | Cultura 24 TV | PE
+http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="CABLE | Exitosa" tvg-logo="https://www.m3u.cl/logo/691_Exitosa.jpg",group-title="CABLE",CABLE | Exitosa | PE
+https://cu.onliv3.com/livevd1/user2.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="CABLE | Hechicera TV" tvg-logo="https://www.m3u.cl/logo/697_Hechicera_TV.png",group-title="CABLE",CABLE | Hechicera TV | PE
+https://panel.streamingtv-mediacp.online:1936/8108/8108/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="CABLE | Inkavision" tvg-logo="https://www.m3u.cl/logo/685_Inkavision.png",group-title="CABLE",CABLE | Inkavision | PE
+https://7.innovatestream.pe:19360/inkavision/inkavision.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="CABLE | JN19" tvg-logo="https://www.m3u.cl/logo/690_JN19.png",group-title="CABLE",CABLE | JN19 | PE
+https://mediastreamm.com:3149/live/jn19tvlive.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="Mega TV" tvg-logo="https://www.m3u.cl/logo/689_Mega_TV.png",group-title="CABLE",CABLE | Mega TV | PE
+https://media2.cdnlayer.biz:8081/8008/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="CABLE | Monterrico TV" tvg-logo="https://www.m3u.cl/logo/698_Monterrico_TV.png",group-title="CABLE",CABLE | Monterrico TV | PE
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="CABLE | Ovacion" tvg-logo="https://www.m3u.cl/logo/699_Ovacion.png",group-title="CABLE",CABLE | Ovacion | PE
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="CABLE | Pax TV" tvg-logo="https://www.m3u.cl/logo/700_Pax_TV.png",group-title="CABLE",CABLE | Pax TV | PE
+http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="CABLE | TV Cosmos" tvg-logo="https://www.m3u.cl/logo/701_TV_Cosmos.png",group-title="CABLE",CABLE | TV Cosmos | PE
+https://59d39900ebfb8.streamlock.net:443/str15live/str15live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="CABLE | TVperuanisima" tvg-logo="https://www.m3u.cl/logo/686_TVperuanisima.png",group-title="CABLE",CABLE | TVperuanisima | PE
+http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="CABLE | Unitel" tvg-logo="https://www.m3u.cl/logo/702_Unitel.png",group-title="CABLE",CABLE | Unitel | PE
+https://cp.sradiotv.com:1936/8078/8078/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="CABLE | Via Television Tarapoto" tvg-logo="https://www.m3u.cl/logo/703_Via_Television_Tarapoto.png",group-title="CABLE",CABLE | Via Television Tarapoto | PE
+https://5ee0faac3bbae.streamlock.net:443/viatv2021/viatv2021/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="CABLE | Vision TV" tvg-logo="https://www.m3u.cl/logo/688_Vision_TV.png",group-title="CABLE",CABLE | Vision TV | PE
+https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8?PlaylistM3UCL
+
+
